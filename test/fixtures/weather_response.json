@@ -1,0 +1,20 @@
+{
+    "coord": {
+        "lon": -46.6425,
+        "lat": -23.223
+    },
+    "main": {
+        "temp": 289.38,
+        "feels_like": 289.36,
+        "temp_min": 288.29,
+        "temp_max": 290.51,
+        "pressure": 961,
+        "humidity": 88
+    },
+    "weather": [
+        {
+            "description": "nublado"
+        }
+    ],
+    "name": "Taboão da Serra"
+}
